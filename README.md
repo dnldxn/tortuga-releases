@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/icon.png" width="128" alt="Tortuga">
+  <img src="media/icon.png" width="128" alt="Tortuga pirate ship icon">
 </p>
 
 <h1 align="center">Tortuga</h1>
@@ -71,6 +71,8 @@ Grab the latest build from [Releases](https://github.com/dnldxn/tortuga-releases
 | macOS | `Tortuga-0.N-macos.zip` |
 | Linux (x86_64) | `Tortuga-0.N-linux.tar.gz` |
 | Dedicated server (linux-arm64) | `tortuga-server-linux-arm64.tar.gz` (+ `.sha256`) |
+
+On Linux, unpack the archive into the folder where you want to keep the game, then run `bash install-desktop.sh` to add Tortuga and its icon to your applications menu. Run the installer again if you move that folder.
 
 The game updates itself: **Check for updates** in the main menu downloads and verifies the newer pack, then restarts. The `.pck` files and `update.json` on each release are for that updater. Clients and servers must run the same version to play together.
 
