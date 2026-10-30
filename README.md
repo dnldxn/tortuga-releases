@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="media/sailing.jpg" width="100%" alt="Sailing a sloop between Tortuga and Port-de-Paix">
+  <img src="media/sailing.jpg" width="100%" alt="Sailing a sloop through the channel between Tortuga and Port-de-Paix, with other ships labelled by nation and type">
 </p>
 
 ## Overview
@@ -37,19 +37,19 @@ The game is built in Godot 4.7 by a solo developer with AI assistance. The sourc
 
 | | |
 |---|---|
-| **Sail** | A 3D Caribbean seen from a pitched follow camera, with wind, tacking, 22 ports and islands you can go ashore on. |
-| **Fight** | Naval battles with eight hull types, round, chain and grape shot, smarter AI captains and timed 3D boarding duels. |
-| **Trade & plunder** | Buy low and sell high across port markets, capture prizes, intercept the Spanish treasure fleet and hunt named rivals. |
-| **Run a crew** | Hire in taverns, keep them fed and paid, manage morale, repair and refit at the shipyard. |
-| **Build a career** | Commissions and standing with four nations, jobs and missions, treasure maps, skills and titles, retirement and a career book. |
-| **Play together** | A persistent shared world on a dedicated server, with a shared pause and server-side saving. |
+| **Sail** | A 3D Caribbean seen from a pitched follow camera, with wind and tacking, 40 ports of four nations, and islands you can go ashore on. Nearby ships are labelled by nation and type, merchants run from pirates, warships give chase, and music plays as you sail. |
+| **Fight** | Naval battles with eight hull types and round, chain and grape shot. Enemy captains fire their broadsides as volleys, keep the weather gauge, lead their shots and flee downwind. Boarding ends in a timed 3D sword duel on deck. |
+| **Trade & plunder** | Buy low and sell high across port markets with a price book, capture prizes, intercept the Spanish treasure fleet and hunt named rivals in their home waters. |
+| **Run a crew** | Hire in taverns, keep them fed and paid, manage morale and wages, check the hold and fleet at sea, repair and refit at the shipyard and store spare ships. |
+| **Build a career** | Commissions and standing with four nations, jobs and contracts, treasure maps, skills and titles, retirement and a career book. |
+| **Play together** | A persistent shared world on a dedicated server for up to four captains, with a shared pause and server-side saving. |
 
 ## Screenshots
 
 <table>
   <tr>
     <td width="50%"><img src="media/battle.jpg" alt="A galleon fires both broadsides"><br><sub>A galleon fires both broadsides.</sub></td>
-    <td width="50%"><img src="media/duel.jpg" alt="A boarding duel"><br><sub>Boarding duel on deck.</sub></td>
+    <td width="50%"><img src="media/duel.jpg" alt="Crossing swords with a rival captain on deck"><br><sub>Crossing swords with a rival captain.</sub></td>
   </tr>
   <tr>
     <td width="50%"><img src="media/port.jpg" alt="Docked at Tortuga"><br><sub>Docked at Tortuga.</sub></td>
@@ -59,11 +59,15 @@ The game is built in Godot 4.7 by a solo developer with AI assistance. The sourc
     <td width="50%"><img src="media/tavern.jpg" alt="The tavern"><br><sub>Hiring crew in the tavern.</sub></td>
     <td width="50%"><img src="media/shipyard.jpg" alt="The shipyard"><br><sub>Repairs and fittings at the shipyard.</sub></td>
   </tr>
+  <tr>
+    <td width="50%"><img src="media/journal.jpg" alt="The journal, with contracts and a treasure map"><br><sub>Contracts and a half-found treasure map in the journal.</sub></td>
+    <td width="50%"><img src="media/ashore.jpg" alt="A landing party ashore"><br><sub>A landing party goes ashore to dig.</sub></td>
+  </tr>
 </table>
 
 ## Download
 
-Grab the latest build from [Releases](https://github.com/dnldxn/tortuga-releases/releases/latest), unpack it and run it.
+Grab the latest build from [Releases](https://github.com/dnldxn/tortuga-releases/releases/latest), unpack it and run it. The game itself is about 45 MB; the full archives below also include the engine.
 
 | Platform | File |
 |---|---|
