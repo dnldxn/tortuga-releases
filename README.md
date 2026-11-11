@@ -5,7 +5,7 @@
 <h1 align="center">Tortuga</h1>
 
 <p align="center">
-  A modern remake of <em>Sid Meier's Pirates!</em> — sail, trade, fight and plunder the Caribbean, alone or with friends.
+  A pirate adventure inspired by <em>Sid Meier's Pirates!</em> — sail, trade, fight and plunder the Caribbean, alone or with friends.
 </p>
 
 <p align="center">
